@@ -70,7 +70,6 @@ def interface():
         if c > 3:
             c = 0
             r +=1
-    
     calculate.mainloop()
 
 
